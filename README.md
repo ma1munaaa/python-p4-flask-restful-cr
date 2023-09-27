@@ -462,3 +462,5 @@ if __name__ == '__main__':
 - [HTTP request methods - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 [frest]: https://flask-restful.readthedocs.io/en/latest/
+name: Node.js CI
+
